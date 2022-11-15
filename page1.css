@@ -1,0 +1,344 @@
+.page1-container {
+  width: 100%;
+  height: auto;
+  display: block;
+  overflow: auto;
+  font-size: 16px;
+  min-height: 100vh;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen","Ubuntu", "Cantarell", "Fira Sans","Droid Sans", "Helvetica Neue", sans-serif;
+  background-color: #fff;
+}
+.page1-container01 {
+  width: 100%;
+  height: 365px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(20, 20, 20, 0.2);
+}
+.page1-text {
+  font-size: 1.5em;
+  margin-top: 0.83em;
+  margin-bottom: 0.83em;
+}
+.page1-image {
+  width: 200px;
+}
+.page1-text01 {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.page1-text02 {
+  color: #000;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.page1-container02 {
+  width: 1200px;
+  height: 87px;
+  display: flex;
+  justify-content: space-around;
+  background-color: rgba(20, 20, 20, 0.2);
+}
+.page1-container03 {
+  width: 196px;
+  height: 87px;
+  background-color: rgba(20, 20, 20, 0.2);
+}
+.page1-text03 {
+  color: #000;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.page1-container04 {
+  width: 361px;
+  height: 86px;
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content: space-evenly;
+  background-color: rgba(20, 20, 20, 0.2);
+}
+.page1-text04 {
+  color: #000;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.page1-container05 {
+  width: 1200px;
+  height: 540px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgba(20, 20, 20, 0.2);
+}
+.page1-text05 {
+  font-size: 2em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+}
+.page1-container06 {
+  width: 1108px;
+  height: 424px;
+  display: grid;
+  grid-gap: 10px;
+  background-color: rgba(20, 20, 20, 0.2);
+  grid-template-rows: auto auto;
+  grid-template-columns: 1fr 1fr;
+}
+.page1-container07 {
+  width: 175px;
+  height: 188px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: rgba(20, 20, 20, 0.2);
+}
+.page1-image1 {
+  width: 147px;
+  height: 150px;
+}
+.page1-text06 {
+  color: #000;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.page1-container08 {
+  width: 167px;
+  height: 189px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: rgba(20, 20, 20, 0.2);
+}
+.page1-image2 {
+  width: 147px;
+  height: 150px;
+}
+.page1-text07 {
+  color: #000;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.page1-container09 {
+  width: 165px;
+  height: 190px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: rgba(20, 20, 20, 0.2);
+}
+.page1-image3 {
+  width: 147px;
+  height: 150px;
+}
+.page1-text08 {
+  color: #000;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.page1-container10 {
+  width: 165px;
+  height: 190px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: rgba(20, 20, 20, 0.2);
+}
+.page1-image4 {
+  width: 147px;
+  height: 150px;
+}
+.page1-text09 {
+  color: #000;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.page1-container11 {
+  width: 1200px;
+  height: 306px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: rgba(20, 20, 20, 0.2);
+}
+.page1-container12 {
+  width: 200px;
+  height: 211px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: rgba(20, 20, 20, 0.2);
+}
+.page1-text10 {
+  font-size: 1.5em;
+  margin-top: 0.83em;
+  margin-bottom: 0.83em;
+}
+.page1-text11 {
+  color: #000;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.page1-text12 {
+  color: #000;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.page1-text13 {
+  color: #000;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.page1-image5 {
+  width: 226px;
+  height: 210px;
+}
+.page1-container13 {
+  width: 200px;
+  height: 100px;
+  display: flex;
+  align-items: flex-start;
+  background-color: rgba(20, 20, 20, 0.2);
+}
+.page1-textinput {
+  width: 100px;
+  height: 20px;
+  border-color: #0089be;
+  border-style: solid;
+  border-width: 1px;
+}
+.page1-button {
+  color: #000;
+  width: 59px;
+  height: 49px;
+  font-size: 13px;
+  padding-top: 5px;
+  border-color: #0089be;
+  border-style: solid;
+  border-width: 1px;
+  padding-left: 10px;
+  border-radius: 4px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  background-color: #fff;
+}
+.page1-container14 {
+  width: 1200px;
+  height: 258px;
+  display: inline-flex;
+  background-color: rgba(20, 20, 20, 0.2);
+}
+.page1-container15 {
+  width: 200px;
+  height: 211px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: rgba(20, 20, 20, 0.2);
+}
+.page1-text14 {
+  font-size: 1.5em;
+  margin-top: 0.83em;
+  margin-bottom: 0.83em;
+}
+.page1-text15 {
+  color: #000;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.page1-text16 {
+  color: #000;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.page1-text17 {
+  color: #000;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.page1-container16 {
+  width: 200px;
+  height: 211px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: rgba(20, 20, 20, 0.2);
+}
+.page1-text18 {
+  font-size: 1.5em;
+  margin-top: 0.83em;
+  margin-bottom: 0.83em;
+}
+.page1-text19 {
+  color: #000;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.page1-text20 {
+  color: #000;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.page1-text21 {
+  color: #000;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.page1-container17 {
+  width: 200px;
+  height: 211px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: rgba(20, 20, 20, 0.2);
+}
+.page1-text22 {
+  font-size: 1.5em;
+  margin-top: 0.83em;
+  margin-bottom: 0.83em;
+}
+.page1-text23 {
+  color: #000;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.page1-text24 {
+  color: #000;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.page1-text25 {
+  color: #000;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.page1-container18 {
+  width: 200px;
+  height: 211px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: rgba(20, 20, 20, 0.2);
+}
+.page1-text26 {
+  font-size: 1.5em;
+  margin-top: 0.83em;
+  margin-bottom: 0.83em;
+}
+.page1-text27 {
+  color: #000;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.page1-text28 {
+  color: #000;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.page1-text29 {
+  color: #000;
+  cursor: pointer;
+  text-decoration: underline;
+}
